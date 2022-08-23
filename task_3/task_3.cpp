@@ -54,5 +54,4 @@ int main()
 	cout << "Vector v3: ";
 	copy(v3.begin(), v3.end(), out);
 	cout << endl << endl;
-
 }
